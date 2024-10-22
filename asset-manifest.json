@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tpdino/static/css/main.f855e6bc.css",
+    "main.js": "/tpdino/static/js/main.37dba0f5.js",
+    "static/js/453.39115668.chunk.js": "/tpdino/static/js/453.39115668.chunk.js",
+    "index.html": "/tpdino/index.html",
+    "main.f855e6bc.css.map": "/tpdino/static/css/main.f855e6bc.css.map",
+    "main.37dba0f5.js.map": "/tpdino/static/js/main.37dba0f5.js.map",
+    "453.39115668.chunk.js.map": "/tpdino/static/js/453.39115668.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.37dba0f5.js"
+  ]
+}
